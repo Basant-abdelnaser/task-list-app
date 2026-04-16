@@ -1,0 +1,1 @@
+ALTER TABLE "Tasks" ALTER COLUMN "status" SET DEFAULT 'TO_DO';
