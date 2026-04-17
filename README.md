@@ -59,9 +59,10 @@ Create a .env file in the root:
 DATABASE_URL=postgresql://username:password@localhost:5432/TaskList
 npm run dev
 ```
-Key Concepts Used
--Server Actions in Next.js
--Database operations with Drizzle ORM
--Routing with App Router
--Data revalidation using revalidatePath
--Navigation using redirect
+## Key Concepts Used
+
+- Server Actions in Next.js
+- Database operations with Drizzle ORM
+- Routing with App Router
+- Data revalidation using revalidatePath
+- Navigation using redirect
